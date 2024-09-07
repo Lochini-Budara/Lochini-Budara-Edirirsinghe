@@ -26,7 +26,7 @@ I am an enthusiastic undergraduate student majoring in BSc.Physics and Electroni
 - Firebase
 
 ### Web based Designed Tool
--Figma
+- Figma
 
 ### Frameworks & Libraries
 - React
