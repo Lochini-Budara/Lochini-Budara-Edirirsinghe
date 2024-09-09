@@ -2,7 +2,7 @@
 
 
 -<h1 align="center">Hi 👋, I'm Lochini Budara</h1>
-<h3 align="center">Undergraduate Student at University of Kelaniya |BSc.Physics and Electronics | Aspiring Front-End Developer | UI/UX Design Enthusiast.</h3>
+<h3 align="center">Aspiring Front-End Developer | UI/UX Design Enthusiast.</h3>
 
 ## 🌟 About Me
 
